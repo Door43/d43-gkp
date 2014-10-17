@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gkp:home|Door43 (gkp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gkp|d43-gkp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gkp/archive/master.zip|d43-gkp.zip]]
+
+**Recent Changes**
+{{changes>ns = gkp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gkp|Ethnologue data]]
+
